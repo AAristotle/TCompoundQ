@@ -9,13 +9,14 @@ The complete code will be released upon the official publication of the paper.
 ## **Environment Setup**  
 
 To ensure reproducibility, install the required dependencies using:  
-```bash
+```
 pip install -r requirements.txt
 tqdm==4.59.0
 numpy==1.20.1
 scikit-learn==0.24.1
 scipy==1.6.2
 torch==1.9.0
+```
 
 ## **Datasets**
 Once the datasets are downloaded, go to the tkbc/ folder and add them to the package data folder by running :
