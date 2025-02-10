@@ -47,5 +47,7 @@ This project is inspired by and builds upon previous works, including TNTComplEx
 
 ## **References**
 https://github.com/facebookresearch/tkbc.
+
 Xu, Chengjin, et al. "Temporal knowledge graph completion using a linear temporal regularizer and multivector embeddings." Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2021.
+
 Ying, Rui, et al. "Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion." Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2024.
